@@ -1,0 +1,5 @@
+1. Make OS specific zshrc.
+2. Find common setup packages reusbale across Linux, Mac
+3. Add config files for Alacritty, Alfred, Polybar, kitty, bspwm, yabai, sxhkd
+4. Keep trying new stuff and see what works. Don't settle down a particular config just yet. 
+5. Find if we can share a theme across bspwm and yabai and any other future WM.
